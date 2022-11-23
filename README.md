@@ -1,2 +1,3 @@
 # Model-prediction-for-terrorist-attacks-IA
-Agent that predict cyber attack and terroristic attack 
+Agent predicting cyber and terrorist attacks in the year 2015 based on information that is on the Global Terrorism Database and the Word Happines Report.
+
